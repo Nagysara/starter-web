@@ -11,4 +11,5 @@ Sample website with plenty of files for demos
 ##How to use
 
 #Changes
-changes and more
+Changes here
+changes again to test the git diff
